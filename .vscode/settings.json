@@ -1,0 +1,17 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "autoflush",
+    "fastapi",
+    "passlib",
+    "postgresserver",
+    "psycopg",
+    "pydantic",
+    "sessionmaker",
+    "sqlalchemy"
+  ],
+  "cSpell.ignoreWords": ["createposts"]
+}
